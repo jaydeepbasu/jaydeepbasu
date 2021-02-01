@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/jaydeep-basu-qa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jaydeep-basu-qa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jaydeepbasu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="jaydeepbasu" height="30" width="40" /></a>
+<a href="https://kaggle.com/jaydeepbasu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="jaydeepbasu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
