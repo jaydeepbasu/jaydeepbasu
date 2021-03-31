@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Jaydeep Basu</h1>
-<h3 align="center">A Test automation and Machine Learning professional from India.</h3>
+<h3 align="center">Test automation & Machine Learning professional.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydeepqa&label=Profile%20views&color=0e75b6&style=flat" alt="jaydeepqa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydeepbasu&label=Profile%20views&color=0e75b6&style=flat" alt="jaydeepbasu" /> </p>
 
-- 🔭 I’m currently working on AI ML
+- 🔭 I’m currently working on AI ML Projects
 
 - 💬 Ask me about **Test Automation, BDD**
 
